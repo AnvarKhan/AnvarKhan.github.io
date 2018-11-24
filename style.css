@@ -1,0 +1,41 @@
+h1{
+font-family: arial;
+font-size: 25pt;
+text-align: center;
+}
+h2{
+	font-family: fantasy;
+    font-size: 20pt;
+    text-align: center;
+}
+p{
+	font-family: verdana;
+	font-size: 15pt;
+	text-align: center;
+}
+img{
+	margin-left: 25%;
+}
+#paragraph {
+	margin: 0;
+}
+ul{
+	font-family: rubius;
+	font-size: 15pt;
+	text-align: left;
+}
+.hh{
+	font-family: arial;
+font-size: 25pt;
+text-align: left;
+}
+.aa{
+	font-family: verdana;
+	font-size: 15pt;
+	text-align: left;
+}
+.bb{
+	font-family: fantasy;
+    font-size: 20pt;
+    text-align: left;
+}
